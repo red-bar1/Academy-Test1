@@ -1,0 +1,4 @@
+2021-7-16;Alloggio;Affitto B&B trasferta Sig.Rossi;1100
+2021-7-1;Viaggio;Trasferta Sig.Rossi;250
+2021-6-10;Manutenzione Locali;Sanificazione;800
+2021-7-11;Vitto;Cena con i dipendenti;2000

@@ -1,0 +1,16 @@
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\bin\Debug\net5.0\GestioneSpese.exe
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\bin\Debug\net5.0\GestioneSpese.deps.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\bin\Debug\net5.0\GestioneSpese.runtimeconfig.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\bin\Debug\net5.0\GestioneSpese.runtimeconfig.dev.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\bin\Debug\net5.0\GestioneSpese.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\bin\Debug\net5.0\ref\GestioneSpese.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\bin\Debug\net5.0\GestioneSpese.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\obj\Debug\net5.0\GestioneSpese.csprojAssemblyReference.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\obj\Debug\net5.0\GestioneSpese.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\obj\Debug\net5.0\GestioneSpese.AssemblyInfoInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\obj\Debug\net5.0\GestioneSpese.AssemblyInfo.cs
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\obj\Debug\net5.0\GestioneSpese.csproj.CoreCompileInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\obj\Debug\net5.0\GestioneSpese.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\obj\Debug\net5.0\ref\GestioneSpese.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\obj\Debug\net5.0\GestioneSpese.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 1\GestioneSpese\GestioneSpese\obj\Debug\net5.0\GestioneSpese.genruntimeconfig.cache

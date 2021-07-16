@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestioneSpese", "GestioneSpese\GestioneSpese.csproj", "{D0F8FF4E-2F44-42B1-8541-DA9D94F2669A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F8FF4E-2F44-42B1-8541-DA9D94F2669A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F8FF4E-2F44-42B1-8541-DA9D94F2669A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F8FF4E-2F44-42B1-8541-DA9D94F2669A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F8FF4E-2F44-42B1-8541-DA9D94F2669A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66D68A0-1134-4887-90DC-700D01D26B00}
+	EndGlobalSection
+EndGlobal
