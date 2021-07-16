@@ -87,7 +87,7 @@ namespace GestioneSpese
         } 
 
 
-        public static void SaveFile(List<ISpesa> spese, List<ISpesa> speseApprovate)
+        public static void SaveFile(List<ISpesa> spese)
         {
             try
             {
@@ -95,14 +95,13 @@ namespace GestioneSpese
                 {
                     foreach (var item in spese)
                     {
-                        if (speseApprovate.Contains(item))
-                        {
+                        
                             writer.WriteLine($"Data: {item.Data.ToShortDateString()};" +
                                 $"Categoria: {item.Categoria};" +
                                 $"{item.Descrizione};" +
                                 $"APPROVATA;" +
                                 $"{item.Livello};");
-                        }
+                        
                     }
                 }
             }
