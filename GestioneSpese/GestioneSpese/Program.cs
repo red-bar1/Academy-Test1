@@ -59,7 +59,7 @@ namespace GestioneSpese
                 Console.WriteLine($"{speseApprovate[i]} - Rimborso: {rimborsi[i]}");
             }
 
-            GestoreFile.SaveFile(spese);
+            GestoreFile.SaveFile(spese, speseApprovate);
             //ho letto dopo che i rimborsi andavano stampati, li avrei aggiunti come proprietà delle singole spese
 
 
